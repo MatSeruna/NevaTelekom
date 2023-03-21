@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\.ИСИП 20-3\\УП\\3 курс\\NevaTelecom\\NevaTelecom\\NevaTelecom.csproj": {}
+    "E:\\NevaTelekom\\NevaTelekom\\NevaTelecom\\NevaTelecom\\NevaTelecom.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\.ИСИП 20-3\\УП\\3 курс\\NevaTelecom\\NevaTelecom\\NevaTelecom.csproj": {
+    "E:\\NevaTelekom\\NevaTelekom\\NevaTelecom\\NevaTelecom\\NevaTelecom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\.ИСИП 20-3\\УП\\3 курс\\NevaTelecom\\NevaTelecom\\NevaTelecom.csproj",
+        "projectUniqueName": "E:\\NevaTelekom\\NevaTelekom\\NevaTelecom\\NevaTelecom\\NevaTelecom.csproj",
         "projectName": "NevaTelecom",
-        "projectPath": "D:\\Учеба\\.ИСИП 20-3\\УП\\3 курс\\NevaTelecom\\NevaTelecom\\NevaTelecom.csproj",
+        "projectPath": "E:\\NevaTelekom\\NevaTelekom\\NevaTelecom\\NevaTelecom\\NevaTelecom.csproj",
         "packagesPath": "C:\\Users\\Уйгун\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\.ИСИП 20-3\\УП\\3 курс\\NevaTelecom\\NevaTelecom\\obj\\",
+        "outputPath": "E:\\NevaTelekom\\NevaTelekom\\NevaTelecom\\NevaTelecom\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NevaTelecom/1.0.0": {
+        "runtime": {
+          "NevaTelecom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NevaTelecom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
