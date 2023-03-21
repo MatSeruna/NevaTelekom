@@ -10,23 +10,23 @@ using System.Windows.Forms;
 
 namespace NevaTelecom
 {
-    public partial class MainMenu : Form
+    public partial class Tariffs : Form
     {
-        public MainMenu()
+        public Tariffs()
         {
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Tariffs_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void button_tarifs_Click(object sender, EventArgs e)
+        private void button_back_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Tariffs tarifs = new Tariffs();
-            tarifs.Show();
+            MainMenu menu = new MainMenu();
+            menu.Show();
         }
     }
 }

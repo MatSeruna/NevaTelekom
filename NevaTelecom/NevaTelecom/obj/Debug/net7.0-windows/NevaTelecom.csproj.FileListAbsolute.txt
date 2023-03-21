@@ -17,3 +17,4 @@ E:\NevaTelekom\NevaTelekom\NevaTelecom\NevaTelecom\obj\Debug\net7.0-windows\refi
 E:\NevaTelekom\NevaTelekom\NevaTelecom\NevaTelecom\obj\Debug\net7.0-windows\NevaTelecom.pdb
 E:\NevaTelekom\NevaTelekom\NevaTelecom\NevaTelecom\obj\Debug\net7.0-windows\NevaTelecom.genruntimeconfig.cache
 E:\NevaTelekom\NevaTelekom\NevaTelecom\NevaTelecom\obj\Debug\net7.0-windows\ref\NevaTelecom.dll
+E:\NevaTelekom\NevaTelekom\NevaTelecom\NevaTelecom\obj\Debug\net7.0-windows\NevaTelecom.Tariffs.resources
