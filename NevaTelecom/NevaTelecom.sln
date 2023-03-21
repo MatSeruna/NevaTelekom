@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevaTelecom", "NevaTelecom\NevaTelecom.csproj", "{169FDE2B-553B-4846-A6F7-5C2A49E5C9D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169FDE2B-553B-4846-A6F7-5C2A49E5C9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169FDE2B-553B-4846-A6F7-5C2A49E5C9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169FDE2B-553B-4846-A6F7-5C2A49E5C9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169FDE2B-553B-4846-A6F7-5C2A49E5C9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E93E577-5FDE-4D83-9902-34D1A21AB0F8}
+	EndGlobalSection
+EndGlobal
