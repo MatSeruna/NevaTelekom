@@ -153,7 +153,7 @@
             this.button_cancel.Text = "Отмена";
             this.button_cancel.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // Authorization
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -170,8 +170,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button_enter);
             this.Controls.Add(this.Logo);
-            this.Name = "Form1";
+            this.Name = "Authorization";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Authorization_Load);
             ((System.ComponentModel.ISupportInitialize)(this.Logo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picture_code)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

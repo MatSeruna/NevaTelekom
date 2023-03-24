@@ -184,7 +184,6 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Tariffs";
             this.Text = "Tariffs";
-            this.Load += new System.EventHandler(this.Tariffs_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

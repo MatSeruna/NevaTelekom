@@ -61,7 +61,7 @@
   <data name="Logo.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAIAAAABrCAYAAAC/vYqKAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAASc1JREFUeF7tnYWDXdd19fNPtbakYZ4RWE6cxEkcY9yQ3Yap4cRxyCQZJdliZmYL
+        EAAACxABrSO9dQAASc1JREFUeF7tnYWDXdd19fNPtbakYZ4RWE6cxEkcY9yQ3Yap4cRxyCQZJdliZmYL
         LYZhZmbUsKT1/da570mj0Vi2Wyefnbrpyr333AP77L02nPfeKJ/bXtWr+a8dV96OZs0/2K0Fh7pAp+Yd
         7tC82HU+1wW8m8e7z/ApBrZccBDsaVPm6+9p0eVefW5bZa/mvXpcuZ8R4F8e84/Yjthzd6vSFp/Qi+d7
         PiPA/xXMPRjZMh4B0haf1N/OdOtzWyt6NXfxMeVubwoEmE/Hzwjwr4c4AeYfaI8iwKKT+vOpjtsEyIEA
@@ -382,7 +382,7 @@
   <data name="picture_code.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EgAACxIB0t1+/AAABFJJREFUSEuNVltPG0cU5nf1oepLKrU8VEmaC5FoaFHVQCQUQpoW0ipVoVRVIIIi
+        EQAACxEBf2RfkQAABFJJREFUSEuNVltPG0cU5nf1oepLKrU8VEmaC5FoaFHVQCQUQpoW0ipVoVRVIIIi
         ggqhiUnAEHDC1cYhgXCLCgRT1bHxZVnjC75hY+Mb8PR1ZtxZz64B9eFjz+E753w7s3POuCSXy+Hw8BAH
         BwegNgW1tT63s9msyj8tV+SYkEge52dzB4hlDuGJZeCO5WCPZOCKphFKktj/4sVc+jKiTwVL6B/+T4pM
         JqMEROL76NAv4UrdY3xw9hfUNfbh5ZwFG+4Qes02GGwJvLDv4S9vCrFUobgI/hIl3KBPDuoPmKz45PoT
@@ -406,7 +406,7 @@
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAWgAAAA8CAYAAABLjSCAAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EgAACxIB0t1+/AAACUBJREFUeF7tmz2OXUUQhVmCd4CX4B3ADswO8A7wDmAHZgdGIoEEJ5BAAAkkIFkk
+        EQAACxEBf2RfkQAACUBJREFUeF7tmz2OXUUQhVmCd4CX4B3ADswO8A7wDmAHZgdGIoEEJ5BAAAkkIFkk
         kICQICEBB5BA8nifnw+USqfvz/PM9MxwSvpkprpv/1ad2/fexyuvvH84hBBCuIZYZwghhPlYZwghhPlY
         ZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlY
         ZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlYZwghhPlY5wr3Pj4c3v52H29+

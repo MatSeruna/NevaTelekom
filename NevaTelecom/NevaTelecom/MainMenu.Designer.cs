@@ -84,7 +84,7 @@
             this.button_news.TabIndex = 4;
             this.button_news.Text = "Новости";
             this.button_news.UseVisualStyleBackColor = true;
-            this.button_news.Click += new System.EventHandler(this.button2_Click);
+        
             // 
             // button_connect
             // 

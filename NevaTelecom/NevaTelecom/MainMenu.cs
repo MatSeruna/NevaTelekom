@@ -15,13 +15,8 @@ namespace NevaTelecom
         public MainMenu()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
+            StartPosition = FormStartPosition.CenterScreen;
+        }  
         private void button_tarifs_Click(object sender, EventArgs e)
         {
             this.Hide();

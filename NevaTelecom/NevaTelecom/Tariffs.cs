@@ -15,13 +15,8 @@ namespace NevaTelecom
         public Tariffs()
         {
             InitializeComponent();
+            StartPosition = FormStartPosition.CenterScreen;
         }
-
-        private void Tariffs_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button_back_Click(object sender, EventArgs e)
         {
             this.Hide();
